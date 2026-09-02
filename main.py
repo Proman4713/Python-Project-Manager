@@ -9,8 +9,7 @@ defaultDirectories = [
 	"~/Python Projects",
 	"~/JavaScript Projects",
 	"~/Expo Apps",
-	"~/ReactJS Apps",
-	"~/Java Projects"
+	"~/ReactJS Apps"
 ]
 
 def load_directories():
